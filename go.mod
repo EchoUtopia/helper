@@ -1,4 +1,4 @@
-module helper
+module github.com/EchoUtopia/helper
 
 go 1.15
 
